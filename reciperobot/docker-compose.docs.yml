@@ -1,0 +1,16 @@
+services:
+  docs:
+    image: reciperobot_local_docs
+    container_name: reciperobot_local_docs
+    build:
+      context: .
+      dockerfile: ./compose/local/docs/Dockerfile
+    env_file:
+      - ./.envs/.local/.django
+    volumes:
+      - ./docs:/docs:z
+      - ./config:/app/config:z
+      - ./reciperobot:/app/reciperobot:z
+    ports:
+      - '9000:9000'
+    command: /start-docs

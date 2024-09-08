@@ -1,0 +1,62 @@
+[
+  {
+    "name": "cup",
+    "aliases": ["c", "cup"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "L",
+    "aliases": ["l", "liter", "litre"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "mL",
+    "aliases": ["ml", "milli"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "grams",
+    "aliases": ["g", "gram"],
+    "unit_type": "weight"
+  },
+  {
+    "name": "kgs",
+    "aliases": ["k", "kg", "kilo", "kilogram"],
+    "unit_type": "weight"
+  },
+  {
+    "name": "ea",
+    "aliases": ["ea", "each", ""],
+    "unit_type": "count"
+  },
+  {
+    "name": "oz",
+    "aliases": ["oz", "ounce"],
+    "unit_type": "weight"
+  },
+  {
+    "name": "fl. oz",
+    "aliases": ["floz", "fl.oz", "fl. oz"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "tsp",
+    "aliases": ["tsp", "teaspoon", "spoon", "t"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "tbsp",
+    "aliases": ["tbsp", "tablespoon"],
+    "unit_type": "volume"
+  },
+  {
+    "name": "pieces",
+    "aliases": ["pc", "piece", "unit"],
+    "unit_type": "count"
+  },
+  {
+    "name": "lb",
+    "aliases": ["lb", "pound", "p"],
+    "unit_type": "weight"
+  }
+]

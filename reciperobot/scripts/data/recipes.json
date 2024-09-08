@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Chicken Cardamom Curry",
+    "description": "A quick to prepare and simple curry with freshly ground cardamom being the dominant flavour. The key to success with this recipe is taking care to not burn the spices.",
+    "version": 1,
+    "is_public": true,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thighs",
+        "measure": "kgs",
+        "qty_float": 2.0,
+        "qty_numerator": 1,
+        "qty_denominator": 0,
+        "modifier": "cubed",
+        "order": 0
+      },
+      {
+        "ingredient": "Cardamom pods",
+        "measure": "ea",
+        "qty_float": 90.0,
+        "qty_numerator": 90,
+        "qty_denominator": 0,
+        "modifier": "",
+        "order": 1
+      },
+      {
+        "ingredient": "Black peppercorns",
+        "measure": "tsp",
+        "qty_float": 5.0,
+        "qty_numerator": 5,
+        "qty_denominator": 0,
+        "modifier": "",
+        "order": 2
+      },
+      {
+        "ingredient": "Turmeric",
+        "measure": "tsp",
+        "qty_float": 2.0,
+        "qty_numerator": 2,
+        "qty_denominator": 0,
+        "modifier": "powdered",
+        "order": 3
+      },
+      {
+        "ingredient": "Chili powder",
+        "measure": "tsp",
+        "qty_float": 4.0,
+        "qty_numerator": 4,
+        "qty_denominator": 0,
+        "modifier": "",
+        "order": 4
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "tsp",
+        "qty_float": 6.0,
+        "qty_numerator": 6,
+        "qty_denominator": 0,
+        "modifier": "ground",
+        "order": 5
+      },
+      {
+        "ingredient": "Yogurt",
+        "measure": "kgs",
+        "qty_float": 1.0,
+        "qty_numerator": 1,
+        "qty_denominator": 0,
+        "modifier": "plain",
+        "order": 6
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "tsp",
+        "qty_float": 1.0,
+        "qty_numerator": 1,
+        "qty_denominator": 0,
+        "modifier": "",
+        "order": 7
+      },
+      {
+        "ingredient": "Diced tomatoes",
+        "measure": "oz",
+        "qty_float": 28.0,
+        "qty_numerator": 28,
+        "qty_denominator": 0,
+        "modifier": "canned",
+        "order": 8
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "cup",
+        "qty_float": 1.0,
+        "qty_numerator": 1,
+        "qty_denominator": 0,
+        "modifier": "olive preferred",
+        "order": 9
+      }
+    ],
+    "steps": [
+      {
+        "text": "Heat the oil on medium-low heat in a large pot.",
+        "order": 0
+      },
+      {
+        "text": "In an electric spice grinder, grind the cardamom pods and black pepper into a powder. It is crucial to use fresh, unground pods and peppercorns to get the proper taste in this recipe!",
+        "order": 1
+      },
+      {
+        "text": "Chop the chicken into chunks suitably sized for currying, about 3x3cm.",
+        "order": 2
+      },
+      {
+        "text": "Add the cardamom and black pepper to the hot oil. It should be very lightly bubbling, but not sizzling violently. Continually stir the oil and spices for 5 minutes. Do NOT let it burn!",
+        "order": 3
+      },
+      {
+        "text": "Add the chicken and toss it in the spicy paste. Add the coriander, chili, salt and turmeric, stirring constantly. Do this for another 5 minutes.",
+        "order": 4
+      },
+      {
+        "text": "Add the can of diced tomatoes and yogurt. Reduce heat slightly. Make sure the chicken is completely submerged in liquid. Top off with water if needed, to cover the chicken.",
+        "order": 5
+      },
+      {
+        "text": "Cover and cook until chicken reaches a safe internal temperature (~74C). Serve over rice with naan and optionally garnish with a bit of chopped cilantro.",
+        "order": 6
+      }
+    ]
+  }
+]
